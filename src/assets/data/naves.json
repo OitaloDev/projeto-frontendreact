@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "nome": "Nave Orange",
+    "preco": 250000.00,
+    "imagem": "./imagem/naveOrange.jpg",
+    "quantidade": 1
+  },
+  {
+    "id": 1,
+    "nome": "Nave Foguetão",
+    "preco": 500000.00,
+    "imagem": "./imagem/fuguetao.jpg",
+    "quantidade": 1
+  },
+  {
+    "id": 2,
+    "nome": "Nave Mãe",
+    "preco": 100000000.00,
+    "imagem": "./imagem/naveMae.jpg",
+    "quantidade": 1
+  },
+  {
+    "id": 3,
+    "nome": "Nave Moita",
+    "preco": 185000.00,
+    "imagem": "./imagem/naveMoita.jpg",
+    "quantidade": 1
+  },
+  {
+    "id": 4,
+    "nome": "Mais rapido que um gato",
+    "preco": 800000.00,
+    "imagem": "./imagem/paraoAltoEAlem.jpg",
+    "quantidade": 1
+  },
+  {
+    "id": 5,
+    "nome": "Nave Kiss",
+    "preco": 400000.00,
+    "imagem": "./imagem/naveKiss.jpg",
+    "quantidade": 1
+  }
+]

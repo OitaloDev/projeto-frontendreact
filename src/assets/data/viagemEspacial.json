@@ -1,0 +1,44 @@
+[
+  {
+    "id": 6,
+    "nome": "Cogulandia",
+    "preco": 150000.00,
+    "imagem": "./viagem espacial/cogulandia.jpg",
+    "quantidade": 1
+  },
+  {
+    "id": 7,
+    "nome": "green land",
+    "preco": 200000.00,
+    "imagem": "./viagem espacial/green land.jpg",
+    "quantidade": 1
+  },
+  {
+    "id": 8,
+    "nome": "pescador de ilusoes",
+    "preco": 300000000.00,
+    "imagem": "./viagem espacial/pescador de ilusoes.jpg",
+    "quantidade": 1
+  },
+  {
+    "id": 9,
+    "nome": "recanto do infinito",
+    "preco": 285000.00,
+    "imagem": "./viagem espacial/recanto do infinito.jpg",
+    "quantidade": 1
+  },
+  {
+    "id": 10,
+    "nome": "terra black",
+    "preco": 400000.00,
+    "imagem": "./viagem espacial/terra black.jpg",
+    "quantidade": 1
+  },
+  {
+    "id": 11,
+    "nome": "paraiso dos desejos",
+    "preco": 500000.00,
+    "imagem": "./viagem espacial/paraiso dos desejos.jpg",
+    "quantidade": 1
+  }
+]
